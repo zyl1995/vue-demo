@@ -1,6 +1,8 @@
 # vue-demo
 # a simple blog demo for vue
 
-1. npm install
+1.　cd testapp/
 
-2. bpm run server
+2. npm install
+
+3. bpm run server
