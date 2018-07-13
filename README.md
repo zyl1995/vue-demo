@@ -5,4 +5,4 @@
 
 2. npm install
 
-3. bpm run server
+3. npm run server
